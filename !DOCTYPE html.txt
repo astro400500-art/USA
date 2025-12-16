@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>An Trip To El Salvador</title>
+</head>
+<body>
+    <h1>An Trip To El Salvador:</h1>
+    <hr>
+    <h3>Geographical Features:</h3>
+    <p>El Salvador Is Filled With Geographical Beauty,So Lets List Some Of Them.</p>
+    <ul>
+      <li>El Salvador Is Located In Central America.</li>
+      <li>El Salvador Is The Smallest Country Of Cental America.</li>
+      <li>El Salvador Is Known As The "Land Of Volcanoes"Due To It Having 20 Active Volcanos.</li>
+  </ul>
+    <p>A Map Showing The Country Of El Salvador On The Globe:</p>
+    <img src="https://tse4.mm.bing.net/th/id/OIP.ftMSLZE8GAD5d6ZfS4dBwQHaHa?cb=ucfimg2&ucfimg=1&w=678&h=678&rs=1&pid=ImgDetMain&o=7&rm=3" width="300">
+  <p><em>A Globe Showing El Salvador.</em></p>
+    <p>A Map Showing The Geographical Features Of El Salvador:</p>
+    <img src="https://www.ezilon.com/maps/images/centralamerica/El-Salvador-physical-map.gif" width="300">
+  <p><em>Geographical Beauty Of El Salvador.</em></p>
+  <hr>
+  <h3>Politics Of El Salvador</h3>
+    
+    <p>Flag Of El Salvador:</p>
+    <img src="https://www.worldatlas.com/img/flag/sv-flag.jpg" width="300">
+    <p><em>Blue Means The Ocean And White Means Sky Or Peace & Truth.</em></p>
+  <p>El Salvador's Capital Is San Salvador.</p>
+  <p>El Salvador' Current Political State:</p>
+    <ul>
+        <li>El Salvador is experiencing major political changes under President Nayib Bukele.</li>
+        <li>He changed rules to stay in power longer, raising concerns about democracy.</li>
+        <li>The country has a history of civil war and political instability.</li>
+        <li>El Salvador still faces challenges with government and citizens’ rights.</li>
+    </ul>
+<hr>
+<h3>Tourism:</h3>
+<ul>
+    <li>
+        The Museum Of Art: Fee: $5 (Foreigners)
+        <br>
+        <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/dc/82/62/exposicion-de-nidos-de.jpg?w=1200&h=1200&s=1" width="300" alt="Museum Of Art">
+    </li>
+    <li>
+        Paseo El Carmen: Fee: None
+        <br>
+        <img src="https://tse2.mm.bing.net/th/id/OIP.Pf8REUgmYmmG0_wS-x-iUAHaEk?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3" width="300" alt="Paseo El Carmen">
+    </li>
+    <li>
+        Devil's Door - Puerta del Diablo: Fees: $1 Parking, Viewpoint: $3, Entrance: $1.5–2
+        <br>
+        <img src="https://tse4.mm.bing.net/th/id/OIP.lydNSsLUaU7Z9QaE9MxwWQHaFj?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3" width="300" alt="Puerta del Diablo">
+    </li>
+    <li>
+        Joya de Ceren Archaeological Park: Fee: $10 And $1 For Parking
+        <br>
+        <img src="https://lapagina.com.sv/wp-content/uploads/2021/12/Joya-de-Ceren-El-Salvador.jpg" width="300" alt="Joya de Ceren">
+    </li>
+</ul>
+<hr>
+    
+<h3>Some Fun Facts About El Salvador</h3>
+        <p>El Salvador's National Animal Is</p>
+      <p>The National Animal Of El Salvador Is The Turquoise-Browed Motmot.:</p>
+    <img src="https://i0.wp.com/www.explorationjunkie.com/wp-content/uploads/2023/08/El-Salvador-Turquoise-Browed-Motmot-2.jpg?fit=900%2C813&ssl=1" width="300">
+  <p><em>Also Known As "Torogoz".</em></p>
+        <p>The National Tree Of El Salvador Is The Maquilishuat.</p>
+      <img src="https://elsalvadoren.com/wp-content/uploads/maquilishuat-tree.webp" width="300">  
+  <p><em>Scientifically Known As Tabebuia Rosea.</em></p>
+       <p>The National Flower Of El Salvador Is The Izote flower.</p>
+  <img src="https://elsalvadorviajar.com/en/wp-content/uploads/2022/06/Flor-de-Izote-Flor-de-El-Salvador-600x400.jpg" width="300">
+  <p><em>It Was Officially Recognized As The National Flower In 1995.</em></p>
+         <p>The Currency Of El Salvador Is Dollars Or $.</p>
+  <img src="https://finanzmarktwelt.de/wp-content/uploads/2023/03/us-dollar-pixa-300-scaled-1.jpg" width="300">
+  <p><em>Due To Lower Inflation Rate.</em></p>
+    <hr>
+ <h3>Famous Dishes Of El Salvador</h3>
+<ul>
+    <li>
+        Pupusas
+        <br>
+        <img src="https://mtviewmirror.com/wp-content/uploads/2016/11/Papusas.jpg" width="300" alt="Pupusas">
+    </li>
+    <li>
+        Yuca Frita
+        <br>
+        <img src="https://i.ytimg.com/vi/1sInYK1SDrI/maxresdefault.jpg" width="300" alt="Yuca Frita">
+    </li>
+    <li>
+        Curtido
+        <br>
+        <img src="https://tse3.mm.bing.net/th/id/OIP.XBXGTyMs6eJHZ-RcBT9JBQHaEK?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3" width="300" alt="Curtido">
+    </li>
+    <li>
+        Atol De Elote
+        <br>
+        <img src="https://img-global.cpcdn.com/recipes/47ba295e28520bb7/1200x630cq70/photo.jpg" width="300" alt="Atol De Elote">
+    </li>
+</ul>
+<hr>
+<h3>Key Historical Event:</h3>
+<ul>
+    <li>El Salvador Gained Independence From Spain On September 15, 1821.</li>
+   <li>El Salvador’s Civil War Ended In 1992 By The Signing Of The Chapultepec Peace Accords.</li>
+   <li>El Salvador Adopted The US Dollar As Its Official Currency In 2001.</li>
+</ul>
+<hr>
+</ul>
+<h3>Festivals of El Salvador</h3>
+<hr>
+<h3>Festivals of El Salvador</h3>
+<ul>
+    <li>
+        <strong>Fiestas Agostinas:</strong> Celebrated in August in honor of the Divine Savior of the World, with parades, music, and traditional events.
+        <br>
+        <img src="https://ultimahora.sv/wp-content/uploads/2017/08/20507242_1393954127357441_2445906788855906253_o.jpg" width="300" alt="Fiestas Agostinas">
+    </li>
+    <li>
+        <strong>Semana Santa:</strong> Holy Week celebrations with religious processions and colorful carpets made of sawdust.
+        <br>
+        <img src="https://www.studyspanishinspain.org/blog/wp-content/uploads/2023/03/guide-to-semana-santa-in-sevilla.jpg" width="300" alt="Semana Santa">
+    </li>
+    <li>
+        <strong>Day of the Dead:</strong> Families honor their ancestors with altars, flowers, and traditional foods.
+        <br>
+        <img src="https://assets.editorial.aetnd.com/uploads/2018/10/gettyimages-620187692.jpg" width="300" alt="Day of the Dead">
+    </li>
+</ul>
+<hr>
+    <strong>Thanks This Website Was Made By Astro</strong>
+</body>
+</html>
